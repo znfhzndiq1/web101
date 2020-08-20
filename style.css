@@ -1,6 +1,7 @@
-ul a{
+ul a, li{
     font-size: 2em;
     color: lightcoral;
+    text-decoration: none;
 }
 li{
     color: lightcoral;
